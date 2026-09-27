@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RICK C-137",
+      "hasCanvas": false,
+      "bodyTextLen": 259,
+      "bodyTextHash": "7c7df7e79768d754f706adc2dd04f35cfbd4c80ca7c0e4b62b03efeb43100605",
+      "bodyTextPrefix": "RICK C-137 Sovereign Oracle PORTAL OPEN --:--:-- DIMENSION C-137",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RICK C-137",
+      "hasCanvas": false,
+      "bodyTextLen": 245,
+      "bodyTextHash": "c7c47ad367368086ce8d802c9f4f64ccbfd46e49fb43a0c1260a5939d5e0b1e0",
+      "bodyTextPrefix": "RICK C-137 Sovereign Oracle PORTAL OPEN --:--:-- DIMENSION C-137",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/rest",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RICK C-137",
+      "hasCanvas": false,
+      "bodyTextLen": 223,
+      "bodyTextHash": "106dc22744ff324a1f35e59d8a76025c87f4292399bf8055d878d8f6469e33b9",
+      "bodyTextPrefix": "RICK C-137 Sovereign Oracle RESTING 05:42:18 AM REST CYCLE He's ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rest-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RICK C-137",
+      "hasCanvas": false,
+      "bodyTextLen": 223,
+      "bodyTextHash": "cbf871e568d779cdfa1c8df092cf7d4e6371621a69fd497dfd867d0dcccc2955",
+      "bodyTextPrefix": "RICK C-137 Sovereign Oracle RESTING 05:42:20 AM REST CYCLE He's ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rest-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/rest-smoke.json"
+}

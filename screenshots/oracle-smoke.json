@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/oracle",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RICK C-137",
+      "hasCanvas": false,
+      "bodyTextLen": 504,
+      "bodyTextHash": "df379c403069decb3a23329601544dc28c2b894d34b1c0c522ba4c80d46f130e",
+      "bodyTextPrefix": "RICK C-137 Same shit, different dimension ONLINE IDLE 05:42:48 A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/oracle-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RICK C-137",
+      "hasCanvas": false,
+      "bodyTextLen": 281,
+      "bodyTextHash": "1659f6df362aa8a1d8407702a73e5dbd3541a9a7f2f9a1fd10fe528492ef21f5",
+      "bodyTextPrefix": "RICK C-137 05:42:49 AM RICK C-137 Oracle node IDLE LIVE SUBTITLE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/oracle-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/oracle-smoke.json"
+}
